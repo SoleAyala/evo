@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1629f4f2-2f4c-4d28-a3ac-3b8be2d4f5b2" name="Changes" comment="Arreglos iniciales" />
+    <list default="true" id="1629f4f2-2f4c-4d28-a3ac-3b8be2d4f5b2" name="Changes" comment="Arreglos iniciales">
+      <change beforePath="$PROJECT_DIR$/src/geneticalgorithm/AlgoritmoAleatorio.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/geneticalgorithm/AlgoritmoAleatorio.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +42,8 @@
     "Python.ConsistencyAndDiversityRestriction.executor": "Run",
     "Python.Endpoint.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "aleatorio",
-    "last_opened_file_path": "C:/Users/maxim/Music/TESIS/evorecsys",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/maxim/Music/TESIS/Source Monica/sysrec_moea_improved",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -109,7 +111,7 @@
       <workItem from="1727700877217" duration="7995000" />
       <workItem from="1730943828357" duration="6987000" />
       <workItem from="1736939874072" duration="56000" />
-      <workItem from="1739894018897" duration="434000" />
+      <workItem from="1739894018897" duration="746000" />
     </task>
     <task id="LOCAL-00001" summary="Arreglos iniciales">
       <option name="closed" value="true" />
